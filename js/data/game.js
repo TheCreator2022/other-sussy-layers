@@ -147,7 +147,7 @@ const game = {
         offlineProgress: true,
         titleStyle: 2,
         theme: "sussy.css",
-        layerNames: [["○","☛","🔫","🗡","ඞ"], "</-=+x>"],
+        layerNames: [["0","1","2","3","4", "5", "6", "7", "8", "9"], "0123456789"],
     },
 };
 const initialGame = functions.getSaveString();
